@@ -1,0 +1,80 @@
+/* style.css */
+body{
+  background: #F8F4E3;
+  background-color: 12879F
+  color: 12879F;
+  font-size: 20px;
+  text-align: center;
+  margin: 0;
+}
+
+h1{font-family: 'Fredericka the Great', cursive;
+	color: 4CE0B3;
+  font-weight: strong;
+  font-size: 40px;
+  text-align: center;
+}
+p {
+  font-family: 'Fredericka the Great', cursive;
+  color: 12879F;
+  font-weight: lighter;
+  font-size: 25px;
+  text-align: center;
+}
+a {
+  color: orange;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+#banner {
+  text-align: center;
+  background-image: url("https://static.pexels.com/photos/209135/pexels-photo-209135.jpeg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+
+#banner h1{
+	color: white
+}
+#banner a:hover {
+	color: white
+}
+.btn {
+	font-family: 'Permanent Marker', cursive;
+}
+.slogan {
+	border-radius: 10px;
+	padding:60px;
+
+}
+.slogan p {
+	border-radius: 50%;
+ 	font-family: 'PT Serif', serif;
+ 	font-size: 15px;
+}
+.slogan h2{
+	font-family: 'Permanent Marker', cursive;
+	font-size:25px;
+	color:#12816F;
+}
+
+.wrapper {
+	margin: 0;
+	padding: 50px;
+	background-color: #B1DED0;
+	font-family: 'Kumar One Outline', cursive;
+}
+#footer{
+	text-align: center;
+	padding: 50px;
+	background-color: #424B54;
+	color:darkgrey;
+	font-size: 12px;
+}
+#footer a {
+	font-size:40px;
+}
